@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace task_1
 {
-    internal class Program
+    internal class task1
     {
 
         static void Main(string[] args)
@@ -28,7 +28,7 @@ namespace task_1
 
 
 
-            if (!IsSym(matrix))
+            if (!IsSymmetric(matrix))
             {
                 Console.WriteLine("матрица не симметричная");
                 Console.ReadKey();
@@ -50,25 +50,25 @@ namespace task_1
             double[] vector = new double[dimension];
 
             for(int i = 0; i < dimension; i++) { 
-            string[] s1=sr.ReadLine().Split();
+            string[] matrixline =sr.ReadLine().Split();
                 for(int j = 0; j < dimension; j++)
                 {
-                    matrix[i,j]= double.Parse(s1[j]);
+                    matrix[i,j]= double.Parse(matrixline[j]);
                 }
             }
 
-            string[] s = sr.ReadLine().Split();
+            string[] vectorline = sr.ReadLine().Split();
 
             for (int i = 0; i < dimension; i++)
             {
-                vector[i] = double.Parse(s[i]);
+                vector[i] = double.Parse(vectorline[i]);
             }
 
             sr.Close();
             return (matrix,vector);
         }
 
-        static bool IsSym(double[,] matrix)
+        static bool IsSymmetric(double[,] matrix)
         {
             int N=matrix.GetLength(0);
 
@@ -76,7 +76,7 @@ namespace task_1
  
             for (int i = 0; i <N ; i++)
             {
-                for (int j = 0; j < N; j++)
+                for (int j = i + 1; j < N; j++)
                 {
                     if (matrix[i, j] != matrix[j, i])
                     {
