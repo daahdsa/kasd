@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+
+
+
 namespace task_2
 {
     internal class task2
@@ -69,7 +73,7 @@ namespace task_2
 
 
             bool f = true;
-            while (f == true)
+            while (f)
             {
 
                 Console.WriteLine("//////////////////////////////////////////////////////////////////");
