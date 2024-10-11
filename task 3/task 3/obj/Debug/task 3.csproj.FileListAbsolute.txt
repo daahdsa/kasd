@@ -1,0 +1,28 @@
+C:\Users\Диана\source\repos\task 3\task 3\obj\Debug\task 3.csproj.AssemblyReference.cache
+C:\Users\Диана\source\repos\task 3\task 3\obj\Debug\task_3.task3.resources
+C:\Users\Диана\source\repos\task 3\task 3\obj\Debug\task_3.Properties.Resources.resources
+C:\Users\Диана\source\repos\task 3\task 3\obj\Debug\task_3.sortalgorithms.resources
+C:\Users\Диана\source\repos\task 3\task 3\obj\Debug\task 3.csproj.GenerateResource.cache
+C:\Users\Диана\source\repos\task 3\task 3\obj\Debug\task 3.csproj.CoreCompileInputs.cache
+C:\Users\Диана\source\repos\task 3\task 3\bin\Debug\task 3.exe.config
+C:\Users\Диана\source\repos\task 3\task 3\bin\Debug\task 3.exe
+C:\Users\Диана\source\repos\task 3\task 3\bin\Debug\task 3.pdb
+C:\Users\Диана\source\repos\task 3\task 3\bin\Debug\ZedGraph.dll
+C:\Users\Диана\source\repos\task 3\task 3\bin\Debug\ZedGraph.xml
+C:\Users\Диана\source\repos\task 3\task 3\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Диана\source\repos\task 3\task 3\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Диана\source\repos\task 3\task 3\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Диана\source\repos\task 3\task 3\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Диана\source\repos\task 3\task 3\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Диана\source\repos\task 3\task 3\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Диана\source\repos\task 3\task 3\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Диана\source\repos\task 3\task 3\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Диана\source\repos\task 3\task 3\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Диана\source\repos\task 3\task 3\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Диана\source\repos\task 3\task 3\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Диана\source\repos\task 3\task 3\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Диана\source\repos\task 3\task 3\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Диана\source\repos\task 3\task 3\obj\Debug\task 3.csproj.Up2Date
+C:\Users\Диана\source\repos\task 3\task 3\obj\Debug\task 3.exe
+C:\Users\Диана\source\repos\task 3\task 3\obj\Debug\task 3.pdb
+C:\Users\Диана\source\repos\task 3\task 3\obj\Debug\task_3.arraygeneration.resources
